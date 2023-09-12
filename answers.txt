@@ -1,2 +1,2 @@
 What is a remote repository?
-It is the central online repository that is seen by several collaborators. 
+It is the central online repository that is seen by several collaborators.
